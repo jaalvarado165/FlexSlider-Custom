@@ -6,4 +6,5 @@ FlexSlider Custom with:
 + Arrows Gallery.
 + JSON Gallery and more.
 + Parallax Effect.
++ Responsive design.
 
